@@ -1,0 +1,24 @@
+.Header {
+    height: calc(724px + 59px + 85px);
+    background-color: blueviolet;
+}
+.Header .mini-banner{
+    height: 159px;
+    background-color: #5E3D98;
+}
+
+
+
+/*MEDIAS QUERies*/
+
+@media (max-width: 991px) {
+ 
+}
+
+@media (max-width: 768px) {
+
+}
+
+@media (max-width: 480px) {
+
+}
