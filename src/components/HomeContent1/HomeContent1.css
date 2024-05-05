@@ -1,4 +1,51 @@
 .HomeContent1 {
     height: 961px;
-    background-color: red;
+    background-color: white;
+    position: relative;
+}
+.HomeContent1 .img-pdg{
+    position: absolute;
+box-sizing: border-box;
+width: 448px;
+height: 673px;
+left: 170px;
+top: 150px;
+border: 3px solid #5E3D98;
+border-radius: 10px;
+z-index: 2;
+}
+.HomeContent1 .layer1{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.HomeContent1 .layer2{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.HomeContent1 .ellipse31{
+    position: absolute;
+left: 7.15%;
+right: 79.93%;
+top: 7.45%;
+bottom: 84.06%;
+width: 186px;
+height: 186px;
+}
+.HomeContent1 .ellipse31 img{
+width: 100%;
+height: 100%;
+}
+.HomeContent1 .ellipse32{
+    position: absolute;
+left: 34.44%;
+right: 52.64%;
+top: 73.45%;
+width: 186px;
+height: 186px;
+}
+.HomeContent1 .ellipse32 img{
+width: 100%;
+height: 100%;
 }
